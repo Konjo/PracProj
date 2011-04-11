@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\font0.spritefont</Source>
+      <Name>Fonts\font0</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Fonts\font0.xnb</Output>
+      <Time>2011-04-07T12:49:39.6633636+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\button0.png</Source>
+      <Name>Textures\Controls\Buttons\button0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\button0.xnb</Output>
+      <Time>2011-04-07T13:53:48.8967268+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level1.png</Source>
+      <Name>Textures\Controls\Buttons\level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level1.xnb</Output>
+      <Time>2011-04-07T17:22:33.4503091+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level10.png</Source>
+      <Name>Textures\Controls\Buttons\level10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level10.xnb</Output>
+      <Time>2011-04-07T17:22:33.4733104+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level3.png</Source>
+      <Name>Textures\Controls\Buttons\level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level3.xnb</Output>
+      <Time>2011-04-07T17:22:33.4543093+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level4.png</Source>
+      <Name>Textures\Controls\Buttons\level4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level4.xnb</Output>
+      <Time>2011-04-07T17:22:33.4573095+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level5.png</Source>
+      <Name>Textures\Controls\Buttons\level5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level5.xnb</Output>
+      <Time>2011-04-07T17:22:33.4603097+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level6.png</Source>
+      <Name>Textures\Controls\Buttons\level6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level6.xnb</Output>
+      <Time>2011-04-07T17:22:33.4623098+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level7.png</Source>
+      <Name>Textures\Controls\Buttons\level7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level7.xnb</Output>
+      <Time>2011-04-07T17:22:33.46531+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level8.png</Source>
+      <Name>Textures\Controls\Buttons\level8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level8.xnb</Output>
+      <Time>2011-04-07T17:22:33.4683101+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level9.png</Source>
+      <Name>Textures\Controls\Buttons\level9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level9.xnb</Output>
+      <Time>2011-04-07T17:22:33.4703102+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Controls\Buttons\level2.png</Source>
+      <Name>Textures\Controls\Buttons\level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level2.xnb</Output>
+      <Time>2011-04-07T17:23:10.6404362+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Players\player0.png</Source>
+      <Name>Textures\Players\player0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Players\player0.xnb</Output>
+      <Time>2011-04-08T11:24:46.0678501+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bolts\bolt0.png</Source>
+      <Name>Textures\Bolts\bolt0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Bolts\bolt0.xnb</Output>
+      <Time>2011-04-09T10:07:27.4572424+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Monsters\monster0.png</Source>
+      <Name>Textures\Monsters\monster0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Monsters\monster0.xnb</Output>
+      <Time>2011-04-10T10:02:11.5557593+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cursors\cursor0.png</Source>
+      <Name>Textures\Cursors\cursor0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Cursors\cursor0.xnb</Output>
+      <Time>2011-04-10T12:19:58.4461197+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cursors\cursor1.png</Source>
+      <Name>Textures\Cursors\cursor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Cursors\cursor1.xnb</Output>
+      <Time>2011-04-10T12:25:52.0551398+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Grounds\ground0.png</Source>
+      <Name>Textures\Grounds\ground0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Grounds\ground0.xnb</Output>
+      <Time>2011-04-10T13:04:28.8856474+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProjContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProjContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-09T18:10:10.1383232+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,2 @@
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProjContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProjContent\obj\x86\Debug\ResolveAssemblyReference.cache

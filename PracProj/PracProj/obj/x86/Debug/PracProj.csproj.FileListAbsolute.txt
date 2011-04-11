@@ -1,0 +1,43 @@
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\PracProj.exe
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\PracProj.pdb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\obj\x86\Debug\PracProj.exe
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\obj\x86\Debug\PracProj.pdb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\button0.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Fonts\font0.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\cursor0.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level1.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level10.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level3.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level4.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level5.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level6.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level7.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level8.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level9.xnb
+C:\Users\Konrad\Desktop\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level2.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Fonts\font0.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\button0.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level1.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level10.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level3.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level4.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level5.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level6.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level7.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level8.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level9.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Controls\Buttons\level2.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\PracProj.exe
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\PracProj.pdb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\obj\x86\Debug\PracProj.exe
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\obj\x86\Debug\PracProj.pdb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Players\player0.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Bolts\bolt0.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Monsters\monster0.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Cursors\cursor0.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Cursors\cursor1.xnb
+C:\Moje dokumenty\Studia\Informatyka\semestr6\Pracownia projektowa\Game\PracProj\PracProj\PracProj\bin\x86\Debug\Content\Textures\Grounds\ground0.xnb
